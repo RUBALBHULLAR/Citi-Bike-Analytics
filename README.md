@@ -72,3 +72,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ### (3) As the temperature gets cold as winter begins, people tend not to ride as well because of the lack of comfort individuals face when riding in low temperatures. Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2017
 ![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/2017_growth.png) 
+
+
+## Map visualization for city officials
+
+* More and more people choose to live in Jersey City and work in Manhathan
