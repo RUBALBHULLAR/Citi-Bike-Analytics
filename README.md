@@ -43,10 +43,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How variable is the utilization by bike ID?
 
-**Next, as a chronic over-achiever:**
-
-* Use your visualizations (does not have to be all of them) to design a dashboard for each phenomena.
-* The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. 
 
 **City officials would also like to see one of the following visualizations:**
 
