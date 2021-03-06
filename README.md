@@ -48,7 +48,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * **Basic:** A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 * https://github.com/RUBALBHULLAR/Citi-Bike-Analytics/blob/master/Images/popular_location.png
-* ![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/image/popularity_over_time.png)
+* ![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/images/popularity_over_time.png)
 
 * **Advanced:** A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
