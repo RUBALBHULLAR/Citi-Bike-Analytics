@@ -66,3 +66,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/customer_base.png) 
 ![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/femal_ridership.png)
+
+### (2) The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM season-regardless 
+![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/peakhours.png) 
