@@ -57,6 +57,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
 
+![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/top_location.png.png)
+
 **Finally, create your final presentation**
 
 * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
