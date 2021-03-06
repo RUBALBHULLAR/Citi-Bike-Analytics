@@ -77,3 +77,4 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## Map visualization for city officials
 
 * More and more people choose to live in Jersey City and work in Manhathan
+![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/popular_location.png) 
