@@ -50,6 +50,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 * ![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/popular_location.png)
 
 * **Advanced:** A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
+* ![alt text](https://user-images.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/popularity_over_time.png)
+
 
 * The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
 
