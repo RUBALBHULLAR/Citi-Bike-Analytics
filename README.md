@@ -11,11 +11,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Task
 
-**Aggregate the data found in the Citi Bike Trip History Logs.** 
-
-
-
-**The following are some questions you i wish to tackle.**
+**To Aggregate the data found in the Citi Bike Trip History Logs.** 
 
 * How many trips have been recorded total during the chosen period?
 
