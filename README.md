@@ -62,7 +62,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Conclusion
 
-### (1) The current major citi bike riders fall into young male group between 18 -20 but number of femal reiders increases over time as they are showing interest to start riding during the weekend
+### (1) The current major citi bike riders fall into young male group between 18 -20 but number of female riders increases over time as they are showing interest to start riding during the weekend
 
 ![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/customer_base.png) 
 ![alt text](https://raw.githubusercontent.com/RUBALBHULLAR/Citi-Bike-Analytics/master/Images/femal_ridership.png)
